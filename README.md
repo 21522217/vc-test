@@ -11,7 +11,7 @@ NOTE: Download postgres to run this database.
 1. I'm using npm version 20.9.0 for this project.
 2. Run `npm install` to install all the dependencies.
 3. Run `npm run dev` to start project (port localhost:10000).
-4. ".env" is public for clarification (I would have include it in ".gitignore" but this is for test so it's okay).
+4. ".env" is public for clarification (I would have included it in ".gitignore" but this is for test so it's okay).
 
 ### RUN FRONTEND ###
 
